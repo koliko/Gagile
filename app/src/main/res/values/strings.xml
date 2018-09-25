@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Gagile Tour App</string>
+
+    <!--this part is for the tab names-->
+    <string name="hotel_tab">Hotel</string>
+    <string name="mall_tab">Mall</string>
+    <string name="restaurent_tab">Restaurant</string>
+    <string name="historical_tab">Historical Sites</string>
+
+    <!--this part is for the mall-->
+    <string name="mloc_name_one">Marina Mall</string>
+    <string name="mloc_name_two">West Hills Mall</string>
+    <string name="mloc_name_three">Opulent Mall</string>
+    <string name="mlo_one">Accra</string>
+    <string name="mlo_two">McCarthy Hills</string>
+    <string name="mlo_three">Kumasi</string>
+
+    <!--this part is for the hotel-->
+    <string name="hloc_name_one">Tang Hotel</string>
+    <string name="hloc_name_two">Nigerian Hotel</string>
+    <string name="hloc_name_three">Marriot Hotel</string>
+    <string name="hlo_one">Accra</string>
+    <string name="hlo_two">Makola</string>
+    <string name="hlo_three">Accra Airport</string>
+
+    <!--this part is for the restaurant-->
+    <string name="rloc_name_one">Erin Restaurant</string>
+    <string name="rloc_name_two">Hamber Restaurant</string>
+    <string name="rloc_name_three">LA 10 Restaurant</string>
+    <string name="rlo_one">Takoradi</string>
+    <string name="rlo_two">Tema</string>
+    <string name="rlo_three">Accra Airport</string>
+
+    <!--this part is for the historical center-->
+    <string name="hiloc_name_one">Mountain Jato</string>
+    <string name="hiloc_name_two">Kakum National Park</string>
+    <string name="hiloc_name_three">Cape Coast Castle"</string>
+    <string name="hilo_one">Volta Region</string>
+    <string name="hilo_two">Cape Cost</string>
+    <string name="hilo_three">Cape Coast</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6d6d70</color>
+    <color name="colorPrimaryDark">#323233</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Background color for app -->
+    <color name="tan_background">#ffffff</color>
+    <color name="tema_color">#d4d5d6</color>
+    <color name="tema1_color">#898c8e</color>
+</resources>
